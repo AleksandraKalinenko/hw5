@@ -62,7 +62,7 @@ public class Main {
     }
 
     public static void task7() {
-        System.out.println("Задача7");
+        System.out.println("Задача 7");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введи имя:");
         String name = scanner.nextLine();
